@@ -1,6 +1,6 @@
-﻿namespace DomianEventDemo
+﻿namespace DomainEventDemo
 {
-    public interface IEntity : IDomianEventProvider
+    public interface IEntity : IDomainEventProvider
     {
         void AddDomainEvent(IDomainEvent domainEvent);
 

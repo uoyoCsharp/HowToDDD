@@ -1,7 +1,7 @@
-﻿using DomianEventDemo;
+﻿using DomainEventDemo;
 using System;
 
-namespace ConsoleApp1.Domian.OneBoundContext.Aggregates
+namespace ConsoleApp1.Domain.OneBoundContext.Aggregates
 {
     public class RecommendProduct : Entity<Guid>
     {

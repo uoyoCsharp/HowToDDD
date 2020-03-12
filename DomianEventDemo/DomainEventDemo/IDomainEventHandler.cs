@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace DomianEventDemo
+namespace DomainEventDemo
 {
     public interface IDomainEventHandler<in TDomainEvent>
         where TDomainEvent : IDomainEvent

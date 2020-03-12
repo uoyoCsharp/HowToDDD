@@ -5,7 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Reflection;
 
-namespace DomianEventDemo.Registrar
+namespace DomainEventDemo.Registrar
 {
     public static class DomainEventHandlerRegistrar
     {

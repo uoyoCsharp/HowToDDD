@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace DomianEventDemo
+namespace DomainEventDemo
 {
     [Serializable]
     public abstract class Entity : Entity<int>

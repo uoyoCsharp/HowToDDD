@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Reflection;
 
-namespace DomianEventDemo
+namespace DomainEventDemo
 {
     public static class EntityHelper
     {

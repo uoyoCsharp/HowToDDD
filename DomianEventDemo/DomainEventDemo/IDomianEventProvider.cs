@@ -1,8 +1,8 @@
 ﻿using System.Collections.Generic;
 
-namespace DomianEventDemo
+namespace DomainEventDemo
 {
-    public interface IDomianEventProvider
+    public interface IDomainEventProvider
     {
         /// <summary>
         /// Get All DomainEvents

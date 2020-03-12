@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace DomianEventDemo
+namespace DomainEventDemo
 {
     public interface IDomainEvent
     {

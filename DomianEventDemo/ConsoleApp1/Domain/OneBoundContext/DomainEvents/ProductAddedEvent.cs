@@ -1,9 +1,9 @@
-﻿using DomianEventDemo;
+﻿using DomainEventDemo;
 using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace ConsoleApp1.Domian.OneBoundContext.DomianEvents
+namespace ConsoleApp1.Domain.OneBoundContext.DomainEvents
 {
     public class ProductAddedEvent:IDomainEvent
     {

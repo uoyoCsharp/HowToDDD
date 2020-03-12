@@ -1,6 +1,6 @@
-﻿using ConsoleApp1.Domian.OneBoundContext.Aggregates;
-using DomianEventDemo.EventDispatch;
-using DomianEventDemo.Registrar;
+﻿using ConsoleApp1.Domain.OneBoundContext.Aggregates;
+using DomainEventDemo.EventDispatch;
+using DomainEventDemo.Registrar;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Reflection;

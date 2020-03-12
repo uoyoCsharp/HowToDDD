@@ -1,13 +1,13 @@
-﻿using ConsoleApp1.Domian.OneBoundContext.Aggregates;
-using ConsoleApp1.Domian.OneBoundContext.DomianEvents;
-using DomianEventDemo;
+﻿using ConsoleApp1.Domain.OneBoundContext.Aggregates;
+using ConsoleApp1.Domain.OneBoundContext.DomainEvents;
+using DomainEventDemo;
 using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.Domian.OneBoundContext.DomianEventHandlers
+namespace ConsoleApp1.Domain.OneBoundContext.DomainEventHandlers
 {
     class ProductAddedEventHandler : IDomainEventHandler<ProductAddedEvent>
     {
